@@ -4,3 +4,5 @@
 2. réteg: adatbázis létrehozása (xampp) (sql-createdb), config/index.js db/sequelize.js
 
 3. réteg: model (user model), db:sync, db:seed
+
+4. réteg repositories + teszt user.repository.js + node test parancs
