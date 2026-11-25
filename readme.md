@@ -10,3 +10,5 @@
 5. réteg: service réteg: utils -> AppError, service -> repo függvényhívások
 
 6. réteg: controller téteg: service hívások definiálása, json response
+
+7. réteg: routes, app.js, server.js
