@@ -12,3 +12,5 @@
 6. réteg: controller téteg: service hívások definiálása, json response
 
 7. réteg: routes, app.js, server.js
+
+8. réteg: auth, autor
